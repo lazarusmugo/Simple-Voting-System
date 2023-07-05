@@ -1,2 +1,2 @@
 # Simple_voting_system
-PHP_assignment
+A voting system done in PHP 
